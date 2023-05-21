@@ -2,7 +2,7 @@
 
 Using Python Programming
 
-Stage 1: Data manipulation
+**Stage 1: Data manipulation**
 
 Perform various data manipulation tasks, such as filtering, sorting, and merging data.
 
